@@ -1,1 +1,1 @@
-{"versionCode":170,"versionName":"v17.0","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"农历阳历切换+分钟精度+合盘内容丰富"}
+{"versionCode":171,"versionName":"v17.1","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"数据重构：更新后需重新填写生辰（新增农历+分钟功能，旧数据不入库）"}
