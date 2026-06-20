@@ -1,1 +1,1 @@
-{"versionCode":177,"versionName":"v17.7","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"修复行运盘八字流运崩溃导致空白bug"}
+{"versionCode":178,"versionName":"v17.8","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"本命排盘移除输入表单，生辰只在天时页录入；本命和行运自动读取"}
