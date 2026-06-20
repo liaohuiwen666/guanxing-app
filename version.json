@@ -1,1 +1,1 @@
-{"versionCode":183,"versionName":"v18.3","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"切换历法自动转换数值+重置按钮"}
+{"versionCode":184,"versionName":"v18.4","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"修复设置生辰白屏bug（Spacer不兼容AlertDialog）"}
