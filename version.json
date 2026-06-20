@@ -1,1 +1,1 @@
-{"versionCode":175,"versionName":"v17.5","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"登录流程简化：移除城市选择，自动GPS定位"}
+{"versionCode":176,"versionName":"v17.6","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"修复行运盘空白bug；数据重构：更新需重新填写生辰"}
