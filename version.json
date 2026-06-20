@@ -1,1 +1,1 @@
-{"versionCode":163,"versionName":"v16.3","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"修复紫微斗数星曜排列算法（紫微系与天府系独立计算）；增加全部12宫详细解读内容；子Tab按钮放大并均匀分布"}
+{"versionCode":165,"versionName":"v16.5","apkUrl":"https://webview.e2b.bj10.sandbox.cloudstudio.club/?x-cs-sandbox-id=e2053e8fd0394c3f851ae93d0062b207&x-cs-sandbox-port=8000","changelog":"修复紫微斗数宫位解读类型错误导致白屏bug；全部12宫完整显示无主星空宫不再跳过"}
